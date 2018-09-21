@@ -14,3 +14,6 @@ Multi - Agent Reinforcement Learning Study List
 ==> policy network의 더 빠른 수렴성을 위해서 replay memory에 우선순위를 바꾸는 방법 제시
 ==> TD 오류를 기반으로 샘플링 분포를 편향 시키는 (biases ) replay memory를 만듭니다.
 
+(5) Deep recurrent q-learning for partially observalble mdps.
+==> partially observable setting의 환경에서, agen들은 일반적으로 전체 행동 관찰, 또는 충분한 stastistic에 있어야 합니다.  
+==> 이를 해결하기 위해서 Q-learning의 q-function을 RNN 을 사용해서 모델링한 논문입니다.
