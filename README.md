@@ -12,4 +12,5 @@ Multi - Agent Reinforcement Learning Study List
 
 (4) Prioritized experience replay 
 ==> policy network의 더 빠른 수렴성을 위해서 replay memory에 우선순위를 바꾸는 방법 제시
+==> TD 오류를 기반으로 샘플링 분포를 편향 시키는 (biases ) replay memory를 만듭니다.
 
