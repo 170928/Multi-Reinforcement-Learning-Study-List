@@ -20,3 +20,6 @@ Multi - Agent Reinforcement Learning Study List.
 
 (6) Off-envirionment reinforcement learning   
 ==> off-policy를 통해서 현재 가진것과 다른 policy에서 생성된 데이터를 사용할 수 있는 것 처럼, off-environment 기법을 통해서 다른 환경으로부터 모아진 데이터를 통해서 policy를 학습하는 것이 가능하다는 것을 보여주는 논문입니다.  
+
+(7) More Topics
+https://medium.com/@yuxili/reinforcement-learning-in-nips-2018-967ab53ab211
