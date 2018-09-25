@@ -31,6 +31,8 @@ Multi - Agent Reinforcement Learning Study List.
 > B. D. Ziebart, J. A. Bagnell, and A. K. Dey    
 > In ICML, pages 1255–1262, 2010.  
 
+(3) Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization
+
 ### More Topics
 https://medium.com/@yuxili/reinforcement-learning-in-nips-2018-967ab53ab211
 
