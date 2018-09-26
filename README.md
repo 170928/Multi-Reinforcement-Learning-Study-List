@@ -42,3 +42,7 @@ https://medium.com/@yuxili/reinforcement-learning-in-nips-2018-967ab53ab211
 http://rail.eecs.berkeley.edu/deeprlcourse/
 
 https://m.blog.naver.com/PostView.nhn?blogId=atelierjpro&logNo=220981354861&proxyReferer=&proxyReferer=http%3A%2F%2Fblog.naver.com%2Fatelierjpro%3FRedirect%3DLog%26logNo%3D220981354861%26from%3DpostView
+
+
+### Recommendation Site for Comprehensive mathematics
+https://medium.com/@jonathan_hui/rl-deep-reinforcement-learning-series-833319a95530
