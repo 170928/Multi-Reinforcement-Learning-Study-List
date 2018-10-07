@@ -1,6 +1,6 @@
 # Multi-Reinforcement-Learning-Study-List
 Multi - Agent Reinforcement Learning Study List.
-
+ 
 
 (1) Mulit-Agent Actor-Critic for Mixed cooperative-Competitve Environments - OpenAI
 
