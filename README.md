@@ -43,6 +43,11 @@ http://rail.eecs.berkeley.edu/deeprlcourse/
 
 https://m.blog.naver.com/PostView.nhn?blogId=atelierjpro&logNo=220981354861&proxyReferer=&proxyReferer=http%3A%2F%2Fblog.naver.com%2Fatelierjpro%3FRedirect%3DLog%26logNo%3D220981354861%26from%3DpostView
 
+> Connecting Generative Adversarial Networks and Actor-Critic 
+https://arxiv.org/pdf/1610.01945.pdf  
+GAN 과 AC 모델의 수학적인 연관성에 대해서 설명해준 논문입니다.  
+최근 관심을 가지고 있는 주제입니다.  
+
 
 ### Recommendation Site for Comprehensive mathematics
 https://medium.com/@jonathan_hui/rl-deep-reinforcement-learning-series-833319a95530
